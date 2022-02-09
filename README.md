@@ -1,6 +1,8 @@
-# Welcome to your CDK TypeScript project!
+# Cross account SNS to SQS publishing with AWS CDK
 
-This is a blank project for TypeScript development with CDK.
+![sns-to-sqs.png](sns-to-sqs.png)
+
+This is an example project for TypeScript development with CDK.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
